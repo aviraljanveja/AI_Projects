@@ -1,1 +1,1 @@
-*AI projects covering Computer Vision, Natural Language Processing, Tranfromers, LLMs and more.*
+*AI projects covering Computer Vision, Natural Language Processing, Transformers, LLMs and more.*
