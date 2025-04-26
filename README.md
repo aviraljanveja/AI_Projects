@@ -1,1 +1,1 @@
-* Upcoming AI passion projects covering Computer Vision, Natural Language Processing, Tranfromers, LLMs and more. *
+*Upcoming AI passion projects covering Computer Vision, Natural Language Processing, Tranfromers, LLMs and more.*
