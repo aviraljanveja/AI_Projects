@@ -1,1 +1,1 @@
-*AI projects covering classical linear models as well as Neural Network based cutting edge Deep Learning models.*
+*AI projects covering classical linear models as well as neural network based cutting edge deep learning models.*
