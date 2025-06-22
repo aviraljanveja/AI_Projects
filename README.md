@@ -1,1 +1,1 @@
-*AI projects covering Computer Vision, Natural Language Processing, Transformers, LLMs and more.*
+*AI projects covering classical linear models as well as Neural Network based cutting edge Deep Learning models.*
