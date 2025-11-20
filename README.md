@@ -1,1 +1,3 @@
-# AI_Projects
+- Projects covering concepts from CalTech ML course by Prof. Abu Mostafa.
+- Like Linear Classification, Linear Regression, Logistic Regression
+- Neural Networks, SVM, Bayesian Methods and so on.
